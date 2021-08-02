@@ -1,0 +1,6 @@
+@Test(ShowAllData=false)
+public class RollupSummaryUsingApexTest {
+   publc static void testMethod(){
+      System.debug('Hellow ----world);
+   }
+}
